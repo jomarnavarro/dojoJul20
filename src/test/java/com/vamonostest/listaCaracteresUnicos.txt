@@ -1,0 +1,7 @@
+una vaca parada en la pared
+
+recibir una cadena
+recorrer la cadena, tomamos un caracter.  lo comparamos con el resto de la cadena
+if es unico, se almacena en una variable string donde esten los unicos
+if not continuamos.
+
